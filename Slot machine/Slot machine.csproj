@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -85,6 +88,7 @@
     <None Include="Resources\star.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="favicon %281%29.ico" />
     <Content Include="Resources\536050.png" />
     <None Include="Resources\圖層 41.png" />
     <None Include="Resources\圖層 11.png" />
